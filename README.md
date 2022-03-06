@@ -12,16 +12,16 @@ Click "Download Tasks" button and wait for 1 sek, after that you can filter task
 
 ### Funciontalities implemented
 
-- Initialize React web app project with TypeScript ✅
-- Wrap JSON in Promise and imitiate fetching from remote API ✅
-- Create a screen with table including the following information ✅
-- Add types with TypeScript ✅ - added some types, used any type
-- Do a simple styling with flexbox (just to show that you know how it works in case of using it then in React Native) ✅
-- Create a simple README.md with install / usage instructions ✅
+- Initialize React web app project with TypeScript ✅ DONE
+- Wrap JSON in Promise and imitiate fetching from remote API ✅ DONE
+- Create a screen with table including the following information ✅ DONE
+- Add types with TypeScript ✅ DONE - added some types, used any type
+- Do a simple styling with flexbox (just to show that you know how it works in case of using it then in React Native) ✅ DONE
+- Create a simple README.md with install / usage instructions ✅ DONE
 
 #### Bonus
-- Search input to search for work orders by description ✅
-- Use custom hooks ✅
-- You can use (but you do not need to) MobX or Redux for state management. ✅ - used redux with async thunk middleware
+- Search input to search for work orders by description ✅ DONE
+- Use custom hooks ✅ DONE
+- You can use (but you do not need to) MobX or Redux for state management. ✅ DONE- used redux with async thunk middleware
 
 
