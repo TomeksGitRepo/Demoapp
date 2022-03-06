@@ -2,8 +2,7 @@ import React from 'react';
 import {connect} from "react-redux";
 import { downloadTasks } from '../actions';
 
-function getTasks(action: any) { //TODO type this better
- //TODO generate get all tasks action
+function getTasks(action: any) { 
     action();
 }
 
