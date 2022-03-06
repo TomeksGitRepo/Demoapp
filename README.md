@@ -4,8 +4,8 @@ This app have just 2 functionalities, one get tasks from mockup "server" and sec
 
 ## Instalation and User flow
 1. Download source code from github
-2. In downloaded folder run npm i
-3. After download is finished run npm start
+2. In downloaded folder run ```npm i```
+3. After download is finished run ```npm start```
 4. App is accessible on localhost:3000
 
 Click "Download Tasks" button and wait for 1 sek, after that you can filter tasks by description. Searching for empty input will display whole tasks.
